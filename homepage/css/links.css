@@ -1,0 +1,59 @@
+
+
+.rav
+{
+	float:right;
+	list-style:none;
+}
+.rav ul
+{
+	display: inline-block;;
+}
+.rav li{
+	display: inline-block;
+	color:grey;
+	border-bottom:5px solid red;
+	box-shadow: 3px 3px 3px white;
+	background-color:darkblue;
+	border-radius: 10px 10px;
+	margin-right:4px;
+}
+.rav li a{
+	color:white;
+	text-decoration:none;
+	padding:5px 10px;
+	font-family="Arial";
+	font-size:17px;
+}
+.rav li a:hover{
+	background-color:red;
+	border-radius: 10px 10px;
+}
+h2
+{
+	color: white ;
+	text-align: center;
+	margin-bottom: -10px;
+    background-color:#333;
+}
+h4
+{
+	color:red;
+	padding-top: -20px;
+    font-size: 15px;
+}
+img
+{
+	max-height:100px;
+	min-width: 60px;
+	width:auto;
+	margin-top:10px;
+}
+.collapse
+{
+	margin-top: -20px;
+}
+.btn
+{
+    margin:0px;
+}
